@@ -1,4 +1,3 @@
-// Author: spasemax0
 #include <stdio.h>
 #include <windows.h>
 #include <tlhelp32.h>
@@ -72,3 +71,4 @@ int main()
     return 0;
 
 }
+
